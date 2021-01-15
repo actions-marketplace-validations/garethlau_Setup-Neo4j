@@ -1,5 +1,5 @@
-name: 'Setup Neo4j'
-description: 'Setup Neo4j'
+name: 'Setup Neo4j with APOC'
+description: 'Setup Neo4j with APOC'
 branding:
   icon: 'database'
   color: 'green'
